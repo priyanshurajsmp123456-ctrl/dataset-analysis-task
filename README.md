@@ -1,2 +1,5 @@
-# dataset-analysis-task
-Dataset analysis task using Python &amp; Pandas
+Dataset Analysis Task
+
+Dataset Used: Titanic Dataset
+Tools: Python, Pandas
+Objective: Analyze data structure, types, and ML readiness.
